@@ -1,3 +1,4 @@
+#
 readme_content = """# 👋 Hồ Văn Sỹ - Full-stack & AI Developer
 
 <div align="center">
