@@ -119,9 +119,3 @@ If you find my projects interesting or helpful, please consider giving them a st
 **"Turning ideas into scalable software and AI-driven realities!"**
 
 </div>
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("File generated successfully.")
