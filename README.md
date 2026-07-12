@@ -61,11 +61,8 @@ I'm a passionate **Information Technology Engineer & Software Developer** specia
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoVanSy&show_icons=true&theme=dark&include_all_commits=true" alt="GitHub Stats" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoVanSy&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnhNgoo&theme=tokyonight" alt="AnhNgoo's GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnhNgoo&theme=tokyonight" alt="Top Languages by Repository" />
 </div>
 
 ---
