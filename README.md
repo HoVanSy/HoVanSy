@@ -1,4 +1,3 @@
-# I will generate a Markdown file containing the custom GitHub Profile README for Ho Van Sy
 readme_content = """# 👋 Hồ Văn Sỹ - Full-stack & AI Developer
 
 <div align="center">
